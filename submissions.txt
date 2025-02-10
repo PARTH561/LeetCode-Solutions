@@ -1,3 +1,3 @@
-Easy: 62 problems solved
-Medium: 10 problems solved
+Easy: 63 problems solved
+Medium: 11 problems solved
 Hard: 1 problems solved
